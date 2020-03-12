@@ -2,8 +2,10 @@
     height: 900px;
     width: 100%;
     padding: 5% 0 0 0;
-    background: url("./assets/images/intersection.png") lightgray;
+    background: url("../assets/images/intersection.png") lightgray;
 }
+
+
 
 .container {
     width: 968px;
